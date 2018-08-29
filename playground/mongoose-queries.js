@@ -29,7 +29,7 @@ if (!ObjectID.isValid(id)) {
 //     }
 //     console.log('Todo By Id', todo);
 // }).catch((e) => console.log(e));
-// //nodemon playground/mongoose-queries.js
+//nodemon playground/mongoose-queries.js
 
 
 //User.findById
